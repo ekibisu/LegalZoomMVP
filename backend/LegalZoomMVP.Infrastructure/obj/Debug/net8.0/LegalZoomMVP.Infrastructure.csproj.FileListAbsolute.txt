@@ -1,0 +1,17 @@
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\bin\Debug\net8.0\LegalZoomMVP.Infrastructure.deps.json
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\bin\Debug\net8.0\LegalZoomMVP.Infrastructure.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\bin\Debug\net8.0\LegalZoomMVP.Infrastructure.pdb
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\bin\Debug\net8.0\LegalZoomMVP.Application.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\bin\Debug\net8.0\LegalZoomMVP.Domain.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\bin\Debug\net8.0\LegalZoomMVP.Domain.pdb
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\bin\Debug\net8.0\LegalZoomMVP.Application.pdb
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoomMVP.Infrastructure.csproj.AssemblyReference.cache
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoomMVP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoomMVP.Infrastructure.AssemblyInfoInputs.cache
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoomMVP.Infrastructure.AssemblyInfo.cs
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoomMVP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoo.C40B4289.Up2Date
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoomMVP.Infrastructure.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\refint\LegalZoomMVP.Infrastructure.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoomMVP.Infrastructure.pdb
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\ref\LegalZoomMVP.Infrastructure.dll

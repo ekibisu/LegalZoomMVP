@@ -1,0 +1,11 @@
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\bin\Debug\net8.0\LegalZoomMVP.Domain.deps.json
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\bin\Debug\net8.0\LegalZoomMVP.Domain.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\bin\Debug\net8.0\LegalZoomMVP.Domain.pdb
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\LegalZoomMVP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\LegalZoomMVP.Domain.AssemblyInfoInputs.cache
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\LegalZoomMVP.Domain.AssemblyInfo.cs
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\LegalZoomMVP.Domain.csproj.CoreCompileInputs.cache
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\LegalZoomMVP.Domain.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\refint\LegalZoomMVP.Domain.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\LegalZoomMVP.Domain.pdb
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\ref\LegalZoomMVP.Domain.dll
