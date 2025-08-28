@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\workspaces\\LegalZoomMVP\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99B8861F-AE69-B190-3846-F39FC2461983}|LegalZoomMVP.Api\\LegalZoomMVP.Api.csproj|c:\\workspaces\\legalzoommvp\\backend\\legalzoommvp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B8861F-AE69-B190-3846-F39FC2461983}|LegalZoomMVP.Api\\LegalZoomMVP.Api.csproj|solutionrelative:legalzoommvp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99B8861F-AE69-B190-3846-F39FC2461983}|LegalZoomMVP.Api\\LegalZoomMVP.Api.csproj|c:\\workspaces\\legalzoommvp\\backend\\legalzoommvp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99B8861F-AE69-B190-3846-F39FC2461983}|LegalZoomMVP.Api\\LegalZoomMVP.Api.csproj|solutionrelative:legalzoommvp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspaces\\LegalZoomMVP\\backend\\LegalZoomMVP.Api\\Program.cs",
-              "RelativeDocumentMoniker": "LegalZoomMVP.Api\\Program.cs",
-              "ToolTip": "C:\\workspaces\\LegalZoomMVP\\backend\\LegalZoomMVP.Api\\Program.cs",
-              "RelativeToolTip": "LegalZoomMVP.Api\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDMAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T19:31:31.697Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\workspaces\\LegalZoomMVP\\backend\\LegalZoomMVP.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LegalZoomMVP.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\workspaces\\LegalZoomMVP\\backend\\LegalZoomMVP.Api\\appsettings.Development.json",
+              "RelativeToolTip": "LegalZoomMVP.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T21:09:23.907Z",
               "EditorCaption": ""
             }
           ]
