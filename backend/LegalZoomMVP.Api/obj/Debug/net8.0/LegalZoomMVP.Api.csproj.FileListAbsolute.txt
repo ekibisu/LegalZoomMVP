@@ -168,3 +168,4 @@ C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Api\bin\Debug\net8.0\ru\Microsof
 C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Api\obj\Debug\net8.0\LegalZoomMVP.Api.sourcelink.json

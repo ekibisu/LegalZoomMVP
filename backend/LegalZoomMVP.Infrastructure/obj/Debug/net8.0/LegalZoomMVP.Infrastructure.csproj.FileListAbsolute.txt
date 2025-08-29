@@ -15,3 +15,4 @@ C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\
 C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\refint\LegalZoomMVP.Infrastructure.dll
 C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoomMVP.Infrastructure.pdb
 C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\ref\LegalZoomMVP.Infrastructure.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Infrastructure\obj\Debug\net8.0\LegalZoomMVP.Infrastructure.sourcelink.json

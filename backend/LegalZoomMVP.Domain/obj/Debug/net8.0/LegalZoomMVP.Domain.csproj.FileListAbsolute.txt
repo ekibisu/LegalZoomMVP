@@ -9,3 +9,4 @@ C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\LegalZoo
 C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\refint\LegalZoomMVP.Domain.dll
 C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\LegalZoomMVP.Domain.pdb
 C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\ref\LegalZoomMVP.Domain.dll
+C:\workspaces\LegalZoomMVP\backend\LegalZoomMVP.Domain\obj\Debug\net8.0\LegalZoomMVP.Domain.sourcelink.json

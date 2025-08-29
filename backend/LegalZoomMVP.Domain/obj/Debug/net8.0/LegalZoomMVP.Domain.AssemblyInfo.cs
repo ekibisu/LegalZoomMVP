@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LegalZoomMVP.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd8119a9fc30c15c39dcb3d3d5cbf2aa362689cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c29c84ad650e1fd8525ce10420302758fcdb955")]
 [assembly: System.Reflection.AssemblyProductAttribute("LegalZoomMVP.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LegalZoomMVP.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
